@@ -6,6 +6,8 @@ The following project is a kiosk that allows students at the Universidad Panamer
 
 The interface design is based directly on a prototype previously developed in Figma, which can be accessed via this link: [https\://www\.figma.com/proto/3V7NUAXiXzdv0FBKOEAUxt/PartialProject1?node-id=0-1\&t=M6X6AaWXUdXwB8rZ-1](https://www.figma.com/proto/3V7NUAXiXzdv0FBKOEAUxt/PartialProject1?node-id=0-1&t=M6X6AaWXUdXwB8rZ-1)
 
+The video showing how the program works can be seen here: https://drive.google.com/drive/folders/1OeyB4f7E9i5hO4HDFs-Tn9OcssfGsgVX?usp=sharing
+
  
 
 Team Contributions
